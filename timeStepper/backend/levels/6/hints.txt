@@ -1,0 +1,3 @@
+Split the string into two-character chunks.
+Reverse each two-character chunk in the string.
+Try reversing pairs like this: "ab" becomes "ba", "cd" becomes "dc".

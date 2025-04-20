@@ -1,0 +1,5 @@
+create a fast, scalable and efficient python backend for timeStepper, a reverse engineering/cryptography game to teach middle schoolers the basics of these cybersecurity concepts.
+
+Middle schoolers are tasked with a black box function, and must reverse and understand how it works and provide a secret message to win a level.
+
+

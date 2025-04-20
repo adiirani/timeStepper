@@ -1,0 +1,3 @@
+Each character in the original string has been changed using the same rule.
+The characters have been flipped using a bitwise operation.
+XOR is a reversible operation. If A ^ B = C, then C ^ B = A.

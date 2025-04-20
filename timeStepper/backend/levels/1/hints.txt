@@ -1,0 +1,3 @@
+The transformation involves manipulating the characters of the string in a way that the order is reversed.
+Think about how you might rearrange the characters from the last one to the first one.
+The string appears backwards. The first character from the original string is now the last one.

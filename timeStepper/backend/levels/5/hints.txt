@@ -1,0 +1,3 @@
+Look closely at the numbers in the string—do they mean anything?
+Try removing every second character. What do you see?
+What would the string look like if you took out all the numbers?
