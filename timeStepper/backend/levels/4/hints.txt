@@ -1,3 +1,0 @@
-Split the string in half. If the string has an odd length, the first half will be smaller.
-Reverse the characters in the first half.
-Reverse the characters in the second half.

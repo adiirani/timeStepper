@@ -1,3 +1,0 @@
-Each character in the transformed string has been shifted by 2 in its value.
-The original characters' values are 2 less than the transformed characters.
-To reverse the transformation, you need to subtract 2 from the value of each character.

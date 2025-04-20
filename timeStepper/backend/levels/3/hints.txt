@@ -1,3 +1,0 @@
-Look at the string carefully. Each adjacent pair of characters has been swapped.
-The first character is swapped with the second, the third with the fourth, and so on.
-If the string has an odd length, the last character remains in its original place.
