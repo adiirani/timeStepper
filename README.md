@@ -58,3 +58,10 @@ Developed by a passionate team of student hackers, educators, and designers, Tim
 Whether you're an educator looking to use TimeStepper in the classroom or a parent curious about fun ways to teach tech, we'd love to hear from you.
 
 **Let’s inspire the next generation of cybersecurity heroes.**
+
+--- 
+
+## LICENSE
+
+[Apache 2.0](LICENSE)
+
